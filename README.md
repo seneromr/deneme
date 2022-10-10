@@ -1,0 +1,2 @@
+# deneme
+ilk repo çalışmam
